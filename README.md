@@ -10,3 +10,11 @@ Digite o primeiro número: 30
 Digite o segundo número: 40
 
 Soma: 70
+
+**Como Executar**
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run 
+```
